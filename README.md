@@ -1,10 +1,10 @@
-# Daily Planner
+# Work Day Scheduler
 
 ## Description 
 
 A simple calendar application that allows a user to save events for each hour of the day. This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-Daily planner features daily updayes date powere by Day.js, and each column with hours and tasks is colorcoded and dinamicyly updates depening on the time of the day. 
+Work Day Scheduler (daily planner) features daily updayes date powere by Day.js, and each column with hours and tasks is colorcoded and dinamicyly updates depening on the time of the day. 
 
 This calendar will store your tasks until you delete them and save the the event was deleted. 
 
@@ -12,7 +12,7 @@ This calendar will store your tasks until you delete them and save the the event
 
 This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-To access the Daily Planner [follow the link](https://porlowska.github.io/daily-planner/).
+To access the Work Day Scheduler [follow the link](https://porlowska.github.io/daily-planner/).
 
 You can update each texfiled to add your tasks, and when you press sabe button they will be stored until you delete them. 
 
