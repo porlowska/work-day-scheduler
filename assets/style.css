@@ -44,18 +44,18 @@ header {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #b7b2b2;
   color: white;
-}
+}s
 
 .present {
-  background-color: #ff6961;
-  color: white;
+  background-color: #e47a74;
+  color: black;
 }
 
 .future {
-  background-color: #77dd77;
-  color: white;
+  background-color: #1ee7dd;
+  color: black;
 }
 
 .saveBtn {
@@ -66,7 +66,7 @@ header {
   color: white;
 }
 
-.saveBtn i:hover {
-  font-size: 20px;
+.saveBtn:hover {
+  font-size: 19px;
   transition: all 0.3s ease-in-out;
 }
