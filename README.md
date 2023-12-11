@@ -12,7 +12,7 @@ This calendar will store your tasks until you delete them and save the the event
 
 This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-To access the Work Day Scheduler [follow the link](https://porlowska.github.io/daily-planner/).
+To access the Work Day Scheduler [follow the link](https://porlowska.github.io/work-day-scheduler/).
 
 You can update each texfiled to add your tasks, and when you press sabe button they will be stored until you delete them. 
 
